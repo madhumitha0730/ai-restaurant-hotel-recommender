@@ -1,0 +1,51 @@
+id,name,city,hotel_type,star_rating,price_per_night,rating,amenities
+1,The Oak Plaza,Delhi,Budget,2,8500,3.6,bar|business center|family rooms|gym|pet friendly|rooftop restaurant
+2,Silver Suites,Mumbai,Resort,5,18000,3.1,airport shuttle|bar|business center|family rooms|rooftop restaurant|spa
+3,Grand Plaza,Hyderabad,Boutique,2,2200,4.3,free breakfast|free wifi|gym|parking|pet friendly|spa
+4,Silver Retreat,Mumbai,Budget,5,6000,4.5,airport shuttle|bar|free wifi|pet friendly|swimming pool
+5,Grand Retreat,Bengaluru,Boutique,2,1500,4.5,business center|free wifi|pet friendly|spa
+6,Sunrise Inn,Delhi,Resort,2,4500,3.9,business center|family rooms|pet friendly|spa|swimming pool
+7,Emerald Residency,Hyderabad,Budget,2,6000,4.2,business center|family rooms|gym|pet friendly|rooftop restaurant|swimming pool
+8,Zenith Towers,Pune,Budget,2,1500,3.7,bar|free wifi|parking|sea view|swimming pool
+9,Palm Grand Hotel,Chennai,Budget,5,8500,4.3,bar|pet friendly|rooftop restaurant|spa
+10,Blue Lagoon Towers,Hyderabad,Luxury,5,18000,3.9,airport shuttle|free breakfast|gym|parking|swimming pool
+11,Sunrise Grand Hotel,Hyderabad,Resort,5,8500,3.1,airport shuttle|free breakfast|gym|parking
+12,Regency Towers,Hyderabad,Boutique,4,1500,4.0,gym|pet friendly|rooftop restaurant
+13,Silver Court,Bengaluru,Business,5,18000,3.9,free breakfast|gym|pet friendly
+14,Zenith Suites,Mumbai,Resort,4,18000,4.1,airport shuttle|bar|free breakfast|parking|pet friendly|rooftop restaurant
+15,Emerald Towers,Bengaluru,Luxury,2,4500,3.6,airport shuttle|gym|pet friendly|rooftop restaurant
+16,Emerald Manor,Hyderabad,Resort,4,2200,4.7,free breakfast|free wifi|parking|spa
+17,Zenith Court,Bengaluru,Heritage,4,1500,4.9,airport shuttle|rooftop restaurant|sea view|spa|swimming pool
+18,Grand Stay,Mumbai,Boutique,5,18000,3.9,airport shuttle|free breakfast|swimming pool
+19,Royal Plaza,Delhi,Heritage,2,1500,3.3,bar|gym|pet friendly|swimming pool
+20,The Oak Stay,Hyderabad,Budget,3,12000,3.9,business center|family rooms|free breakfast|pet friendly
+21,The Oak Palace,Hyderabad,Resort,2,4500,4.3,gym|pet friendly|spa
+22,Horizon Residency,Bengaluru,Heritage,2,12000,3.9,airport shuttle|free breakfast|free wifi|gym|pet friendly|sea view
+23,Royal Heights,Bengaluru,Heritage,4,4500,3.9,family rooms|free breakfast|sea view|spa
+24,Royal Palace,Bengaluru,Budget,4,6000,3.9,bar|free breakfast|pet friendly|rooftop restaurant|sea view
+25,Silver Grand Hotel,Chennai,Heritage,2,12000,4.5,business center|free wifi|gym|sea view|swimming pool
+26,The Pearl Grand Hotel,Hyderabad,Heritage,5,6000,3.4,airport shuttle|family rooms|parking|pet friendly|sea view|swimming pool
+27,Regency Retreat,Pune,Luxury,2,3200,3.7,airport shuttle|bar|free breakfast|free wifi|pet friendly|sea view
+28,Royal Retreat,Mumbai,Budget,4,2200,4.9,airport shuttle|bar|sea view
+29,Palm Palace,Bengaluru,Business,4,18000,4.3,bar|free breakfast|pet friendly|spa
+30,Silver Manor,Delhi,Heritage,2,1500,4.9,bar|free breakfast|rooftop restaurant|spa
+31,Grand Court,Delhi,Business,2,4500,5.0,airport shuttle|bar|free breakfast|sea view|spa|swimming pool
+32,The Pearl Plaza,Bengaluru,Budget,3,2200,3.6,bar|family rooms|free breakfast|free wifi|rooftop restaurant
+33,Blue Lagoon Grand Hotel,Bengaluru,Heritage,5,18000,3.7,airport shuttle|business center|gym|parking|pet friendly|rooftop restaurant
+34,Sunrise Plaza,Chennai,Budget,4,18000,4.4,airport shuttle|family rooms|free wifi|pet friendly|sea view|spa
+35,The Pearl Court,Hyderabad,Budget,4,2200,4.7,airport shuttle|bar|free wifi
+36,Zenith Inn,Delhi,Resort,3,2200,3.9,business center|pet friendly|rooftop restaurant|sea view|swimming pool
+37,Regency Heights,Hyderabad,Budget,5,8500,4.3,business center|gym|swimming pool
+38,Blue Lagoon Heights,Mumbai,Business,3,2200,3.9,airport shuttle|rooftop restaurant|spa
+39,Emerald Palace,Chennai,Resort,4,1500,3.6,bar|business center|gym|pet friendly|spa
+40,The Pearl Inn,Chennai,Heritage,5,4500,4.0,airport shuttle|free breakfast|gym|sea view
+41,Silver Towers,Pune,Luxury,2,18000,4.8,airport shuttle|business center|parking|swimming pool
+42,Emerald Heights,Delhi,Boutique,4,18000,4.7,airport shuttle|gym|parking|pet friendly|swimming pool
+43,The Oak Towers,Pune,Luxury,4,1500,5.0,airport shuttle|business center|family rooms|free breakfast|free wifi|sea view
+44,Emerald Suites,Hyderabad,Heritage,4,4500,4.3,family rooms|pet friendly|rooftop restaurant|sea view|spa
+45,Blue Lagoon Residency,Pune,Business,2,6000,4.6,free breakfast|parking|rooftop restaurant|spa|swimming pool
+46,Zenith Plaza,Bengaluru,Resort,3,3200,4.6,airport shuttle|free breakfast|pet friendly|rooftop restaurant|spa
+47,Zenith Retreat,Chennai,Boutique,5,2200,3.3,bar|family rooms|parking|pet friendly|swimming pool
+48,Grand Towers,Hyderabad,Luxury,2,18000,3.7,business center|parking|pet friendly|sea view|swimming pool
+49,Blue Lagoon Suites,Delhi,Boutique,2,8500,4.8,airport shuttle|rooftop restaurant|sea view
+50,Palm Residency,Bengaluru,Budget,2,1500,3.6,bar|gym|swimming pool
